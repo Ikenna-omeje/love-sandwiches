@@ -43,5 +43,4 @@ def validate_data(values):
         print(f"invalid data: {e}, please try again.\n")
 
 
-
 get_sales_data()
